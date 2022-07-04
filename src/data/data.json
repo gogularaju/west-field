@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Gap Inc",
+    "abbr": "GAP",
+    "link": "",
+    "subtitle": "Senior Software Engineer",
+    "url": "https://www.gapinc.com/en-us/",
+    "duration": "July 2021 - Present",
+    "width": "259px",
+    "height": "194px",
+    "description": "Front End Development | Web Developer | UI Developer"
+  },
+  {
+    "id": 2,
+    "title": "Development Bank of Singapore (DBS)",
+    "link": "",
+    "abbr": "DBS",
+    "subtitle": "Analyst",
+    "url": "https://www.dbs.com/default.page",
+    "duration": "April 2019 - June 2021",
+    "description": "Front End Development | Web Developer | UI Developer",
+    "projects": [{
+      "name": "DBS Internet Banking Taiwan",
+      "url": "https://internet-banking.dbs.com.tw/digitw/",
+      "description": "Building an internet banking application for DBS Taiwan. Working on UI Components, Micro Front Ends (MFE’s), which is to create reusable components using React Js with Typescript.Working on core features of banking like Fund Transfer, Payee Management, Foreign Exchange, Remittance, Scheduled/Recurring transfer, Loan Payment, Transaction History, Investments, Forgot Password , Forgot UID, Register, Price Alert, Account Summary"
+    },{
+      "name": "DBS Internet Banking Indonesia",
+      "url": "https://secure.id.dbsdigibank.com/cconboarding",
+      "description": "Building a joyful customer journey using credit card on-boarding for digital banking of Indonesia.Creating an Adobe Analytics framework to achieve digital marketing solutions and guiding the team on usage of the framework."
+    }]
+  },
+  {
+    "id": 3,
+    "title": "Tata Consultancy Services (TCS)",
+    "link": "",
+    "abbr": "TCS",
+    "subtitle": "System Engineer",
+    "url": "https://www.tcs.com/",
+    "duration": "July 2016 - March 2019",
+    "description": "Front End Development | Web Developer | UI Developer",
+    "projects": [{
+      "name": "Kaiser Permanente",
+      "url": "https://scpmgphysiciancareers.com/",
+      "description": "Developing the responsive web applications meant for physicians for auditing the medical record numbers using JavaScript frameworks like Angular Js and React JS with Html5,CSS3,Bootstrap"
+    },{
+      "name": "McKesson Corporation",
+      "url": "https://mms.mckesson.com/portal/login?utm_campaign=mck+customer+login&utm_source=McKesson.com&utm_medium=referral",
+      "description": "Developing responsive web application meant for pharmacists using JavaScript framework like Angular Js with Html5,CSS3,Bootstrap"
+    }]
+  }
+]
